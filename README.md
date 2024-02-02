@@ -58,6 +58,9 @@ ggplot(Art_cascade, aes(x=Indicator, y=Count, fill=Status)) +
 ```
 ### Results/Findings
 
+<img width="425" alt="plot" src="https://github.com/Mose742/HIV-R-Analysis/assets/92220412/15530778-113c-49e1-9c64-2015b49109c0">
+
+
 ### Recomendations
 
 ### Limitations
